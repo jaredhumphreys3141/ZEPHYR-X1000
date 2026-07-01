@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="HmcWSRuV03mSPi2Q0QZ3">
-    <mxGraphModel dx="1030" dy="535" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3140" dy="1651" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-1" parent="1" style="shape=mxgraph.pid.vessels.tank;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
           <mxGeometry height="95" width="40" x="705" y="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dN9DlSzChnLpIhwmjPaJ-54" edge="1" parent="1" source="dN9DlSzChnLpIhwmjPaJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" target="dN9DlSzChnLpIhwmjPaJ-53" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-4" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x10540;points=[[0.35,0,0],[0.35,1,0]]" value="" vertex="1">
           <mxGeometry height="75.54" width="79.18" x="695" y="232.77" as="geometry" />
@@ -25,6 +22,9 @@
             <mxPoint x="1495.3599999999997" y="450.2999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-1" edge="1" parent="1" source="dN9DlSzChnLpIhwmjPaJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dN9DlSzChnLpIhwmjPaJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OXIDIZER TANK" vertex="1">
           <mxGeometry height="30" width="60" x="1260" y="277.5" as="geometry" />
         </mxCell>
@@ -40,7 +40,7 @@
           <mxGeometry height="75.54" width="79.06" x="1360.47" y="595" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-18" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="1410" y="770" as="geometry" />
+          <mxGeometry height="40" width="70" x="1425" y="780" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DRAIN VALVE" vertex="1">
           <mxGeometry height="30" width="60" x="1479.53" y="785" as="geometry" />
@@ -55,13 +55,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-33" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="990" y="520" as="geometry" />
+          <mxGeometry height="35" width="60" x="990" y="520" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PRESSURIZE VALVE" vertex="1">
-          <mxGeometry height="30" width="60" x="1010" y="500" as="geometry" />
+          <mxGeometry height="30" width="60" x="990" y="490" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-46" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="1350" y="520" as="geometry" />
+          <mxGeometry height="35" width="55" x="1372.5" y="532.5" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DEPRESSURIZE VALVE" vertex="1">
           <mxGeometry height="30" width="60" x="1370" y="500" as="geometry" />
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-53" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=90;" value="" vertex="1">
-          <mxGeometry height="25" width="40" x="915" y="475" as="geometry" />
+          <mxGeometry height="25" width="40" x="829.18" y="425" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-71" parent="1" style="shape=cross;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1190" y="375" as="geometry" />
@@ -95,7 +95,7 @@
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-64" parent="1" style="shape=cross;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1190" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="sSL-SEYEIIBiXXaalMp5-5" edge="1" parent="1" source="sSL-SEYEIIBiXXaalMp5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.977;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="dN9DlSzChnLpIhwmjPaJ-11" value="">
+        <mxCell id="sSL-SEYEIIBiXXaalMp5-5" edge="1" parent="1" source="sSL-SEYEIIBiXXaalMp5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" target="dN9DlSzChnLpIhwmjPaJ-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sSL-SEYEIIBiXXaalMp5-4" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=90;" value="" vertex="1">
@@ -160,7 +160,7 @@
           <mxGeometry height="60" width="130" x="1150" y="885" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-11" parent="sSL-SEYEIIBiXXaalMp5-21" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-90;" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="30" as="geometry" />
+          <mxGeometry height="45" width="70" x="45" y="15" as="geometry" />
         </mxCell>
         <mxCell id="dN9DlSzChnLpIhwmjPaJ-14" parent="sSL-SEYEIIBiXXaalMp5-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MPV - OX" vertex="1">
           <mxGeometry height="30" width="60" y="15" as="geometry" />
@@ -287,6 +287,52 @@
         </mxCell>
         <mxCell id="Wp48vXrfkA_yMEKdUiRU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OUTSIDE BODY" vertex="1">
           <mxGeometry height="30" width="60" x="1497.5" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="55" x="390" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-7" parent="0KsQ23HzUeMbFGD3Rm3T-10" style="shape=cross;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="55" width="55" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-2" parent="0KsQ23HzUeMbFGD3Rm3T-10" style="shape=mxgraph.pid.vessels.tank;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;container=0;" value="" vertex="1">
+          <mxGeometry height="95" width="40" x="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-3" edge="1" parent="0KsQ23HzUeMbFGD3Rm3T-10" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="27.5" y="180" as="sourcePoint" />
+            <mxPoint x="27.5" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-9" parent="0KsQ23HzUeMbFGD3Rm3T-10" style="shape=cross;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="55" width="55" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-11" edge="1" parent="1" source="dN9DlSzChnLpIhwmjPaJ-4" style="endArrow=classic;html=1;rounded=0;exitX=0.35;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryX=0.021;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" target="dN9DlSzChnLpIhwmjPaJ-53" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="365" />
+              <mxPoint x="849" y="365" />
+            </Array>
+            <mxPoint x="734.59" y="358.31" as="sourcePoint" />
+            <mxPoint x="723" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-14" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball" value="" vertex="1">
+          <mxGeometry height="35" width="60" x="515" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-15" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=check;rotation=90;" value="" vertex="1">
+          <mxGeometry height="25" width="40" x="620" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="365" as="sourcePoint" />
+            <mxPoint x="725" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KsQ23HzUeMbFGD3Rm3T-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.062;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="0KsQ23HzUeMbFGD3Rm3T-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="365" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
