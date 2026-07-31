@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zuoDmu9BnwFidiwSUZ9V">
-    <mxGraphModel dx="747" dy="450" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="782" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,14 +559,14 @@
         <mxCell id="p7vz0zJOatk2m5cadb3o-26" edge="1" parent="1" source="oAD9ZKHPW-jmloSjq3Ej-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.35;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="p7vz0zJOatk2m5cadb3o-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p7vz0zJOatk2m5cadb3o-27" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=needle" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="815" y="88" as="geometry" />
-        </mxCell>
-        <mxCell id="p7vz0zJOatk2m5cadb3o-28" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.blockBleedValve;actuator=none" value="" vertex="1">
-          <mxGeometry height="130" width="100" x="1122.5" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="p7vz0zJOatk2m5cadb3o-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DBB VALVES?" vertex="1">
           <mxGeometry height="30" width="60" x="1115" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="A6QTvgWElQ5YZhMPzJpp-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="READS VALVE - NO" vertex="1">
+          <mxGeometry height="30" width="60" x="1028.75" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="A6QTvgWElQ5YZhMPzJpp-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="READS VALVE - NO" vertex="1">
+          <mxGeometry height="30" width="60" x="860" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
