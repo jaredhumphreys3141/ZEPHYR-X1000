@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="zuoDmu9BnwFidiwSUZ9V">
-    <mxGraphModel dx="1028" dy="619" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="743" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,15 +81,6 @@
         <mxCell id="oAD9ZKHPW-jmloSjq3Ej-5" parent="bTZjGw8Fp7jplDV-JIjb-7" style="rounded=0;whiteSpace=wrap;html=1;" value="QUICK DISCONNECT" vertex="1">
           <mxGeometry height="35" width="90" y="7.5" as="geometry" />
         </mxCell>
-        <mxCell id="oAD9ZKHPW-jmloSjq3Ej-7" parent="bTZjGw8Fp7jplDV-JIjb-7" style="rounded=0;whiteSpace=wrap;html=1;" value="SOURCE PRESSURANT TANK" vertex="1">
-          <mxGeometry height="50" width="100" x="170" as="geometry" />
-        </mxCell>
-        <mxCell id="oAD9ZKHPW-jmloSjq3Ej-8" edge="1" parent="bTZjGw8Fp7jplDV-JIjb-7" source="oAD9ZKHPW-jmloSjq3Ej-7" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="oAD9ZKHPW-jmloSjq3Ej-27" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint y="200" as="sourcePoint" />
-            <mxPoint x="210" y="25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oAD9ZKHPW-jmloSjq3Ej-27" parent="bTZjGw8Fp7jplDV-JIjb-7" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-180;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="24" width="40" x="110" y="13" as="geometry" />
         </mxCell>
@@ -97,6 +88,15 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="160" y="70" as="sourcePoint" />
             <mxPoint x="120" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bgbUNS_Qtof_70fgvBdq-2" parent="bTZjGw8Fp7jplDV-JIjb-7" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man;aspect=fixed;rotation=0;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="195.49" y="-3" as="geometry" />
+        </mxCell>
+        <mxCell id="bgbUNS_Qtof_70fgvBdq-3" edge="1" parent="bTZjGw8Fp7jplDV-JIjb-7" source="bgbUNS_Qtof_70fgvBdq-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.747;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.009;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="oAD9ZKHPW-jmloSjq3Ej-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="275.49" y="103.87" as="sourcePoint" />
+            <mxPoint x="175.49" y="101.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bTZjGw8Fp7jplDV-JIjb-6" connectable="0" parent="bTZjGw8Fp7jplDV-JIjb-8" style="group" value="" vertex="1">
@@ -153,9 +153,6 @@
         <mxCell id="bTZjGw8Fp7jplDV-JIjb-33" edge="1" parent="1" source="oAD9ZKHPW-jmloSjq3Ej-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="bzAzpvT2jBG5dhdEvlFY-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTZjGw8Fp7jplDV-JIjb-34" edge="1" parent="1" source="oAD9ZKHPW-jmloSjq3Ej-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.84;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="bzAzpvT2jBG5dhdEvlFY-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oAD9ZKHPW-jmloSjq3Ej-14" parent="1" style="shape=mxgraph.pid.vessels.tank;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
           <mxGeometry height="95" width="40" x="945" y="965" as="geometry" />
         </mxCell>
@@ -210,7 +207,7 @@
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="OX DRAIN/FILL VALVE" vertex="1">
           <mxGeometry height="30" width="52.91" x="938.5500000000001" y="1115" as="geometry" />
         </mxCell>
-        <mxCell id="bzAzpvT2jBG5dhdEvlFY-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="OX MAIN PROPELLANT VALE" vertex="1">
+        <mxCell id="bzAzpvT2jBG5dhdEvlFY-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="OX MAIN PROPELLANT VALVE" vertex="1">
           <mxGeometry height="30" width="60" x="975" y="1187" as="geometry" />
         </mxCell>
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-51" edge="1" parent="1" source="bzAzpvT2jBG5dhdEvlFY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bzAzpvT2jBG5dhdEvlFY-45" value="">
@@ -292,7 +289,7 @@
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COMBUSTION CHAMBER" vertex="1">
           <mxGeometry height="30" width="60" x="1009.5" y="1550.25" as="geometry" />
         </mxCell>
-        <mxCell id="bzAzpvT2jBG5dhdEvlFY-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="FUEL MAIN PROPELLANT VALE" vertex="1">
+        <mxCell id="bzAzpvT2jBG5dhdEvlFY-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="FUEL MAIN PROPELLANT VALVE" vertex="1">
           <mxGeometry height="30" width="60" x="750" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-73" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -401,9 +398,6 @@
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-6" parent="bTZjGw8Fp7jplDV-JIjb-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="BURST DISK" vertex="1">
           <mxGeometry height="30" width="60" x="-127.49000000000001" y="-40" as="geometry" />
         </mxCell>
-        <mxCell id="bzAzpvT2jBG5dhdEvlFY-7" parent="bTZjGw8Fp7jplDV-JIjb-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="PRESSURE RELIEF VALVE" vertex="1">
-          <mxGeometry height="30" width="60" x="-135" y="-120" as="geometry" />
-        </mxCell>
         <mxCell id="bTZjGw8Fp7jplDV-JIjb-12" edge="1" parent="bTZjGw8Fp7jplDV-JIjb-26" source="bzAzpvT2jBG5dhdEvlFY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="oAD9ZKHPW-jmloSjq3Ej-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -448,12 +442,12 @@
         <mxCell id="bTZjGw8Fp7jplDV-JIjb-29" parent="bTZjGw8Fp7jplDV-JIjb-28" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=ball;rotation=-180;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="24" width="40" x="50.48000000000002" y="120.01" as="geometry" />
         </mxCell>
-        <mxCell id="bzAzpvT2jBG5dhdEvlFY-19" parent="bTZjGw8Fp7jplDV-JIjb-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="PRESSURE RELIEF VALVE" vertex="1">
-          <mxGeometry height="30" width="60" x="-0.4900000000000091" y="20.01" as="geometry" />
+        <mxCell id="bzAzpvT2jBG5dhdEvlFY-19" parent="bTZjGw8Fp7jplDV-JIjb-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="PRESSURE RELIEF VALVE - SIZE FOR REG FAIL OPEN" vertex="1">
+          <mxGeometry height="30" width="80" x="-20" y="13.690000000000001" as="geometry" />
         </mxCell>
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-28" edge="1" parent="bTZjGw8Fp7jplDV-JIjb-28" source="bzAzpvT2jBG5dhdEvlFY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.47;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="45.010000000000005" as="targetPoint" />
+            <mxPoint x="-25" y="45.00999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bzAzpvT2jBG5dhdEvlFY-31" edge="1" parent="bTZjGw8Fp7jplDV-JIjb-28" source="bzAzpvT2jBG5dhdEvlFY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.47;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -547,9 +541,6 @@
             <mxPoint x="965" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7vz0zJOatk2m5cadb3o-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NEED MANUAL VALVES" vertex="1">
-          <mxGeometry height="30" width="60" x="835" y="45" as="geometry" />
-        </mxCell>
         <mxCell id="p7vz0zJOatk2m5cadb3o-23" parent="1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man;aspect=fixed;rotation=-90;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="934.51" y="130" as="geometry" />
         </mxCell>
@@ -560,13 +551,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7vz0zJOatk2m5cadb3o-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DBB VALVES?" vertex="1">
-          <mxGeometry height="30" width="60" x="1115" y="230" as="geometry" />
+          <mxGeometry height="30" width="60" x="1345" y="620" as="geometry" />
         </mxCell>
         <mxCell id="A6QTvgWElQ5YZhMPzJpp-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="READS VALVE - NO" vertex="1">
           <mxGeometry height="30" width="60" x="1028.75" y="940" as="geometry" />
         </mxCell>
         <mxCell id="A6QTvgWElQ5YZhMPzJpp-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="READS VALVE - NO" vertex="1">
           <mxGeometry height="30" width="60" x="860" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="bzAzpvT2jBG5dhdEvlFY-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="PRESSURE RELIEF VALVE - SIZE FOR REG FAIL OPEN" vertex="1">
+          <mxGeometry height="30" width="85" x="790" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="oAD9ZKHPW-jmloSjq3Ej-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SOURCE PRESSURANT TANK" vertex="1">
+          <mxGeometry height="50" width="100" x="1410" y="155.13" as="geometry" />
+        </mxCell>
+        <mxCell id="oAD9ZKHPW-jmloSjq3Ej-8" edge="1" parent="1" source="oAD9ZKHPW-jmloSjq3Ej-7" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.991;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" target="bgbUNS_Qtof_70fgvBdq-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1104.51" y="358.13" as="sourcePoint" />
+            <mxPoint x="1360" y="182.46" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
