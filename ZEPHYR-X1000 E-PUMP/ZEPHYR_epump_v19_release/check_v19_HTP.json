@@ -1,0 +1,32 @@
+{
+ "variant": "HTP",
+ "overlaps_mm3": [
+  [
+   "shaft",
+   "nose_nut",
+   10.7796
+  ]
+ ],
+ "gaps": {
+  "inducer tip-body": 0.1,
+  "impeller front-body": 0.3864,
+  "impeller back-cartridge": 0.3,
+  "ring bore-shaft": 0.025,
+  "ring nose-carrier seat": 0.0,
+  "carrier-impeller": 0.3,
+  "nut-body": 4.1,
+  "shaft-carrier hole": 0.3
+ },
+ "ring_float_clear": true,
+ "ring_lift_1.5: gap_to_impeller, bottom_z": [
+  0.0,
+  -4.0
+ ],
+ "nose_on_seat_margin_at_full_float_mm": 0.1,
+ "masses_g": {
+  "body": 218.0,
+  "cartridge": 283.9,
+  "carrier": 11.1,
+  "ring": 0.5
+ }
+}
